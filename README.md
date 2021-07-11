@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RatnaMadhav.
 - 👀 I’m interested in debugging someone's code.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on youtube.
+- 💞️ I’m looking to collaborate on projects.
 
 
 <!---
