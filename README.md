@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RatnaMadhav.
 - 👀 I’m interested in debugging someone's code.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python/ML.
 - 💞️ I’m looking to collaborate on projects.
 
 
