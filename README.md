@@ -2,7 +2,7 @@
 
 - 💭  I'm a full stack developer.
 - 👀 I’m interested in debugging someone's code.
-- 🌱 I’m currently learning python/ML.
+- 🌱 I’m currently working on react.
 - 💞️ I’m looking to collaborate on projects.
 
 
